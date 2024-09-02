@@ -1,0 +1,6 @@
+"Cut" = "カット";
+"Support you to right-click to cut the file or folder and copy it to the Clipboard. This function allows you to realize quick file location changes. You don't need to spend more time pressing down the Command - X shortcuts to cut an item." = "ファイルやフォルダを右クリックしてカットし、クリップボードにコピーするサポートを提供します。この機能により、ファイルの場所の変更を迅速に行うことができます。アイテムをカットするためにCommand - Xのショートカットキーを長押しする時間を費やす必要はありません。";
+"Cut the file or folder and copy it to the Clipboard. This function allows you to realize quick file location changes. You don't need to spend more time pressing down the Command - X shortcuts to cut an item." = "ファイルまたはフォルダを切り取ってクリップボードにコピーします。この機能を使用すると、ファイルの場所を迅速に変更することができます。アイテムをカットするためにCommand - Xのショートカットキーを押す時間をかける必要はありません。";
+"Paste" = "ペースト";
+"Paste a file or folder from the Clipboard that you've cut just now." = "切ったばかりのクリップボードからファイルやフォルダを貼り付けます。";
+"Cut the file in preparation for changing its location." = "ファイルの位置を変更する準備として、ファイルをカットします。";

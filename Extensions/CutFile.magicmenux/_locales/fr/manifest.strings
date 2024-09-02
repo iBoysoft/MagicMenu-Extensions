@@ -1,0 +1,6 @@
+"Cut" = "Couper";
+"Support you to right-click to cut the file or folder and copy it to the Clipboard. This function allows you to realize quick file location changes. You don't need to spend more time pressing down the Command - X shortcuts to cut an item." = "Vous permet de faire un clic droit pour couper le fichier ou le dossier et le copier dans le Presse-papiers. Cette fonction vous permet de réaliser rapidement des changements de localisation de fichiers. Vous n'avez plus à passer du temps à appuyer sur les raccourcis Command - X pour couper un élément.";
+"Cut the file or folder and copy it to the Clipboard. This function allows you to realize quick file location changes. You don't need to spend more time pressing down the Command - X shortcuts to cut an item." = "Coupez le fichier ou le dossier et copiez-le dans le presse-papiers. Cette fonction vous permet d'effectuer rapidement des changements de localisation de fichier. Vous n'avez pas besoin de passer plus de temps à appuyer sur les raccourcis Commande - X pour couper un élément.";
+"Paste" = "Coller";
+"Paste a file or folder from the Clipboard that you've cut just now." = "Collez un fichier ou un dossier depuis le Presse-papiers que vous venez de couper.";
+"Cut the file in preparation for changing its location." = "Coupez le fichier en préparation pour changer son emplacement.";

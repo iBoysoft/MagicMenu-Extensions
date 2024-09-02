@@ -1,0 +1,6 @@
+"Cut" = "Recortar";
+"Support you to right-click to cut the file or folder and copy it to the Clipboard. This function allows you to realize quick file location changes. You don't need to spend more time pressing down the Command - X shortcuts to cut an item." = "Apoia-te para clicar com o botão direito para cortar o arquivo ou pasta e copiá-lo para a Área de Transferência. Esta função permite realizar rápidas mudanças de localização de arquivos. Você não precisa gastar mais tempo pressionando os atalhos Command - X para cortar um item.";
+"Cut the file or folder and copy it to the Clipboard. This function allows you to realize quick file location changes. You don't need to spend more time pressing down the Command - X shortcuts to cut an item." = "Recorte o arquivo ou pasta e copie-o para a Área de Transferência. Esta função permite realizar rápidas mudanças de localização de arquivos. Você não precisa gastar mais tempo pressionando os atalhos Command - X para cortar um item.";
+"Paste" = "Colar";
+"Paste a file or folder from the Clipboard that you've cut just now." = "Cole um arquivo ou pasta da Área de Transferência que você acabou de cortar.";
+"Cut the file in preparation for changing its location." = "Recorte o arquivo em preparação para mudar sua localização.";

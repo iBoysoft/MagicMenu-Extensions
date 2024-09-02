@@ -1,0 +1,16 @@
+{
+     "appInfo": {
+        "window": {
+            "height": 603,
+            "width": 1000,
+            "title": "Image Convert"
+        }
+    },
+    "web":{
+        "root":"Web/dist",
+        "homePage":"index.html#/imageConversion",
+        "hasCompress":false,
+        "parameters":[]
+    },
+    "service": ""
+}

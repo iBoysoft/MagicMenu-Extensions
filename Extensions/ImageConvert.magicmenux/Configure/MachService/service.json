@@ -1,0 +1,17 @@
+{
+    "Label":"com.iboysoft.demo",
+    "MachService":[
+        {
+            "libName":"libdemo.dylib",
+            "libPath":"MachService/Framework/libdemo.dylib",
+            "exprotInterface":"__getFrameWork",
+            "internalInterfaces":[
+                {
+                    "name":"",
+                    "paramType":[],
+                    "description":""
+                }
+            ]
+        }
+    ]
+}
