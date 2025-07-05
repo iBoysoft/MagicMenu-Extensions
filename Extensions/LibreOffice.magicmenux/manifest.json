@@ -1,0 +1,47 @@
+{
+  "name": "LibreOffice Launcher",
+  "subname": "Open with LibreOffice",
+  "icon": "icon.png",
+  "identifier": "com.custom.libreoffice.launcher",
+  "description": "Open selected file in LibreOffice",
+  "os version": "10.13",
+  "app version": "4",
+  "version": "1.0",
+  "developer": "user",
+  "copyright": "",
+  "categories": ["Utility"],
+  "actions": {
+    "shells": [
+      {
+        "name": "Open in LibreOffice",
+        "full name": "Open in LibreOffice",
+        "description": "Open the selected file with LibreOffice",
+        "icon": "icon.png",
+        "identifier": "com.custom.libreoffice.launcher.action",
+        "rule": {
+          "type": "basic",
+          "values": ["4"]
+        },
+        "run as root": 0,
+        "async": 1,
+        "default group id": "19B75651-7B42-4265-8235-BB5D2949B972",
+        "dependent apps": [
+          {
+            "name": "LibreOffice",
+            "link": "https://www.libreoffice.org/download/download/",
+            "identifier": "org.libreoffice.script",
+            "check installed": 1
+          }
+        ],
+        "shell": {
+          "shellscript file": "LibreOffice.sh",
+          "params": [
+            "{magicmenu selectedURLs 0}"
+          ],
+          "interpreter": "bash"
+        }
+      }
+    ]
+  }
+}
+
